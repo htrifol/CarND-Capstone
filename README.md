@@ -24,6 +24,8 @@ Please use **one** of the two installation options, either native **or** docker 
 
 Build the docker container
 ```bash
+git clone https://github.com/udacity/CarND-Capstone.git
+cd CarND-Capstone
 docker build . -t capstone
 ```
 
